@@ -1,0 +1,8 @@
+streamlit>=1.41
+pandas
+numpy
+pymupdf
+nltk
+scikit-learn
+google-genai
+python-dotenv
